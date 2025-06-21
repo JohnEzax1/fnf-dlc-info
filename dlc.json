@@ -2,15 +2,21 @@
   "dlcs": [
     {
       "name": "Encore Pack",
-      "version": "1.0",
-      "description": "Adds 5 bonus songs and a new stage.",
+      "version": "1.1",
+      "description": "Added 2 more songs and bug fixes.",
       "required": false
     },
     {
-      "name": "Chaos Update",
-      "version": "1.2",
-      "description": "Hard mode remix of the Sonic set.",
+      "name": "EXE Expansion",
+      "version": "2.0",
+      "description": "Adds 6 new Sonic.exe battles and cutscenes.",
       "required": true
+    },
+    {
+      "name": "Encore Encore",
+      "version": "1.0",
+      "description": "Secret boss. Hard as nails. Not for the faint of heart.",
+      "required": false
     }
   ]
 }
