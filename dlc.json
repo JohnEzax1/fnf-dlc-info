@@ -1,22 +1,22 @@
 {
   "dlcs": [
     {
-      "name": "Encore Pack TEST",
-      "version": "1.1",
-      "description": "Added 2 more songs and bug fixes.",
-      "required": false
+      "id": "curse",
+      "name": "Curse",
+      "song": "Malediction",
+      "description": "A lovely stroll in the park becomes a terrible misunderstanding!\nSing with Curse in this chill tune to express your love for your girlfriend.",
+      "sizeMB": 29,
+      "video": "https://yourcdn.com/previews/curse_preview.mp4",
+      "zipUrl": "https://yourcdn.com/dlc/curse_pack.zip"
     },
     {
-      "name": "EXE Expansion",
-      "version": "2.0",
-      "description": "Adds 6 new Sonic.exe battles and cutscenes.",
-      "required": true
-    },
-    {
-      "name": "sabrina carpenter",
-      "version": "2.3",
-      "description": "weweqscenes.",
-      "required": true
+      "id": "slash",
+      "name": "SL4SH",
+      "song": "No Mercy",
+      "description": "Inside Sonic Gems Collection lies a Malicious AI! Battle it out with SL4SH in this frantic track and avoid his deadly claw swipes!",
+      "sizeMB": 41,
+      "video": "https://yourcdn.com/previews/slash_preview.mp4",
+      "zipUrl": "https://yourcdn.com/dlc/slash_pack.zip"
     }
   ]
 }
