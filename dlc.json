@@ -1,22 +1,4 @@
 {
-  "dlcs": [
-    {
-      "id": "curse",
-      "name": "Curse",
-      "song": "Malediction",
-      "description": "A lovely stroll in the park becomes a terrible misunderstanding!\nSing with Curse in this chill tune to express your love for your girlfriend.",
-      "sizeMB": 29,
-      "video": "https://github.com/JohnEzax1/fnf-dlc-info/releases/download/v1.0/Malediction.Gameplay.-.Sonic.EXE.Definitive.Experience.U2ihggjAqd0.mp4",
-      "zipUrl": "https://files.catbox.moe/cdm2ye.zip"
-    },
-    {
-      "id": "sl4sh",
-      "name": "SL4SH",
-      "song": "B4CKSL4SH",
-      "description": "Inside Sonic Gems Collection lies a Malicious AI! Battle it out with SL4SH in this frantic track and avoid his deadly claw swipes!",
-      "sizeMB": 41,
-      "video": "https://github.com/JohnEzax1/fnf-dlc-info/releases/download/v1.0/b4cksl4sh.gameplay.ygh9ZFZFHyg.mp4",
-      "zipUrl": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1005948003/1e2311d8-b5ca-46e3-91f3-b11dcb8bfffd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250623T044027Z&X-Amz-Expires=1800&X-Amz-Signature=c33c4dc02befecfd9b92c890fbf6f405e328e915d0749e1d2975c9834d9d97a8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dcurse.zip&response-content-type=application%2Foctet-stream"
-    }
-  ]
+  "dlcs": 
+  []
 }
